@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>I'm SoHyun Park👋 &nbsp;&nbsp; Welcome to my Github</h2> 
+<h2>I'm Sohyun Park👋 &nbsp;&nbsp; Welcome to my Github</h2> 
 
 ### ✨ Frontend Tech Stacks
 <br/>
@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to contact : sohyunee016@gmail.com
+
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSohyunee&count_bg=%23FBEAFF&title_bg=%23845EC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
