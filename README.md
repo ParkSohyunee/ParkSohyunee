@@ -32,11 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Tailwindcss-%2306B6D4?style=flat-square&logo=Tailwindcss&logoColor=white"/></t>
 <img src="https://img.shields.io/badge/Styledcomponents%20%2F%20Emotion-%23DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
 
-
-- 📫 How to contact : sohyunee016@gmail.com
-
 <br/>
 
-<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSohyunee&count_bg=%23FBEAFF&title_bg=%23845EC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
